@@ -22,4 +22,8 @@ for k in si:
 print(*results)
 ```
 
+### Exception
+
+When period, comma or other symbols are used, they also count as characters
+
 ## Proof of work
