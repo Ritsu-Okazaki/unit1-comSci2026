@@ -1,7 +1,4 @@
 # This is quiz 3
-## Paper work
-![20240827_150612](https://github.com/user-attachments/assets/32efc874-118f-484b-979c-07f8953fca08)
-
 ## Code solution
 ```.py
 in_protein = input("please enter the protein in the DNA chain you want to translate: ")
@@ -17,3 +14,6 @@ else:
     print("invalid input")
     exit()
 ```
+
+## Paper work
+![20240827_150612](https://github.com/user-attachments/assets/32efc874-118f-484b-979c-07f8953fca08)
