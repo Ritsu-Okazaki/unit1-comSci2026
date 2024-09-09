@@ -16,11 +16,9 @@ for i in input_numbers:
     temp_list.append(int(i))
 
 print(sum_check(temp_list))
-print(temp_list)
 ```
 
 ## Proof of work
-![image](https://github.com/user-attachments/assets/573c7c1d-abaf-4921-a752-404eac0c70ec)
+![image](https://github.com/user-attachments/assets/8ed84178-580e-422d-82bb-96c73dcb8a3b)
 
 ## Paper work
-![20240827_150612](https://github.com/user-attachments/assets/32efc874-118f-484b-979c-07f8953fca08)
