@@ -34,5 +34,6 @@ else:
 ![image](https://github.com/user-attachments/assets/7b0d58bd-a15d-411a-8ff9-fe2dff9916e1)
 
 
-
 ## Paper work
+![quiz5](https://github.com/user-attachments/assets/c662e9ee-bbc0-40ee-920e-e95430ea1589)
+
