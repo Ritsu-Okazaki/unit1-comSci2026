@@ -29,3 +29,6 @@ print(result)
 ## Proof of work
 
 ![image](https://github.com/user-attachments/assets/91673dd6-1d9c-4dfc-96cd-b0383dbf9408)
+
+## Paper work
+![quiz5 (1)](https://github.com/user-attachments/assets/3120d4ee-11e3-46a6-9fe5-598660d8172a)
