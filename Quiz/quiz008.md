@@ -1,4 +1,4 @@
-# This is quiz 8 SL
+# This is quiz 8
 
 ## Code solution
 ```.py
