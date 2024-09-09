@@ -14,6 +14,8 @@ else:
     print("invalid input")
     exit()
 ```
+## Proof of work
+![image](https://github.com/user-attachments/assets/573c7c1d-abaf-4921-a752-404eac0c70ec)
 
 ## Paper work
 ![20240827_150612](https://github.com/user-attachments/assets/32efc874-118f-484b-979c-07f8953fca08)
