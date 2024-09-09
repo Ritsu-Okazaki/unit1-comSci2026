@@ -1,4 +1,5 @@
 # This is quiz 3
+
 ## Code solution
 ```.py
 in_protein = input("please enter the protein in the DNA chain you want to translate: ")
@@ -6,14 +7,15 @@ in_protein = input("please enter the protein in the DNA chain you want to transl
 translation = {"A": "T", "C": "G", "G": "C", "T": "A"}
 out_protein = ""
 
-if in_protein in "AGTA":
-    for i in range(len(in_protein)):
+for i in range(len(in_protein)):
+    if in_protein[i] in "AGTC":
         out_protein += translation[in_protein[i]]
-    print(out_protein)
-else:
-    print("invalid input")
-    exit()
+    else:
+        exit("invalid input")
+
+print(out_protein)
 ```
+
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/573c7c1d-abaf-4921-a752-404eac0c70ec)
 
