@@ -1,4 +1,4 @@
-# Quiz002
+# This is quiz2
 
 ## Code solution
 ```.py
