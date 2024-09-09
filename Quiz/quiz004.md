@@ -25,3 +25,11 @@ if sums-number  == number:
 
 print(*result, False)
 ```
+
+## Proof of work
+
+![image](https://github.com/user-attachments/assets/0743e50a-3e93-4b0d-a623-1c3e1c58a219)
+
+## Paper work
+
+![20240828_091028](https://github.com/user-attachments/assets/43055d37-cdd3-4bac-bf4c-d8fb56369384)
