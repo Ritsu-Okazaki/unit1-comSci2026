@@ -29,6 +29,11 @@ else:
     exit()
 ```
 
+## Flow chart
+![image](https://github.com/user-attachments/assets/c9441ba6-b8db-4a62-962b-fe183e73b20d)
+
+
+
 ## Proof of work
 
 ![image](https://github.com/user-attachments/assets/7b0d58bd-a15d-411a-8ff9-fe2dff9916e1)
