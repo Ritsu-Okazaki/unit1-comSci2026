@@ -26,6 +26,10 @@ if sums-number  == number:
 print(*result, False)
 ```
 
+## Flow chart
+![image](https://github.com/user-attachments/assets/e22795ab-2fd1-4843-a8f8-975da05ce17f)
+
+
 ## Proof of work
 
 ![image](https://github.com/user-attachments/assets/0743e50a-3e93-4b0d-a623-1c3e1c58a219)
