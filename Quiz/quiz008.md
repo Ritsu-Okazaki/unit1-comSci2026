@@ -25,9 +25,7 @@ if room_num is not None and room_num >= 1 and room_num <= 100:
 ```
 
 ## Flow chart
-![image](https://github.com/user-attachments/assets/1e2cd2e0-56ff-4133-8078-394c96c54d47)
-
-
+![image](https://github.com/user-attachments/assets/f3deb2f3-81b9-40a5-8256-2b8d9dd768ca)
 
 ## Proof of work
 
