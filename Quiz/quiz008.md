@@ -24,6 +24,10 @@ if room_num is not None and room_num >= 1 and room_num <= 100:
     print(all_rooms[room_num - 1])
 ```
 
+## Flow chart
+![image](https://github.com/user-attachments/assets/21d5ab18-0c63-4d8b-b017-0183d83bd842)
+
+
 ## Proof of work
 
 ![image](https://github.com/user-attachments/assets/951c9270-bdbb-4eab-93a4-bfcf007e43f6)
