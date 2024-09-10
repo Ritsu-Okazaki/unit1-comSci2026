@@ -17,8 +17,7 @@ print(out_protein)
 ```
 
 ## Flow chart
-![image](https://github.com/user-attachments/assets/1c88bbed-b34b-49ea-91ba-8fdb4a6f2dd8)
-
+![image](https://github.com/user-attachments/assets/0b05ee9d-dafd-4881-865f-bf26bec338fb)
 
 ## Proof of work
 ![image](https://github.com/user-attachments/assets/573c7c1d-abaf-4921-a752-404eac0c70ec)
