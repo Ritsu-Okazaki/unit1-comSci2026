@@ -12,7 +12,8 @@ The client is in need of a software where the user can interact with its softwar
 resonable explanation for software details (e.g. filetypes)
 - multi-platform
 
-## Success criteriaa
+## Success criteria
+(add corespondance to the solution)
 
 Basic Tool Functionality
 
