@@ -10,6 +10,7 @@ My client, is an owner of a construction company who recently decided to impleme
 The client is in need of a software where the user can interact with its software only by typing, without toggling the cursor. On top of the notepad function, for the crew to store passwords for gadgets or rooms that require one, there needs to be a password manager. The password manager itself should be protected by a password as well, because the device could often be placed away from its user while the user is engaged in a task, and the passwords in the manager shall not be leaked.
 
 resonable explanation for software details (e.g. filetypes)
+- multi-platform
 
 ## Success criteriaa
 
