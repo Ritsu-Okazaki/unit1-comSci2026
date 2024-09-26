@@ -1,5 +1,5 @@
 
-# Project Unit 1: A Simple Typing Practice Software
+# Project Unit 1: A Simple Typing Practice Software (typepractice.py)
 
 ## Criteria A
 ### Problem definition
