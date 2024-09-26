@@ -8,16 +8,13 @@ My client is an owner of an educational institution that conducts academic profi
 
 ### Proposed Solution
 
-I propose a software that can run on multiple platforms, mainly windows and iOS, which behaves like a typing practice appication, but has a hidden functionality of a encrypted password manager for the database the institution uses. By digitalizing the storage of passwords, it is largely less likely that the passwords become unreachable, or get misread or miswritten due to flaws in handwriting. The password manager will only open when the secret code is entered within a specific time span, which works as a strong countermeasure towards unauthorized access. The password manager stores data in a csv file, because it is capable of holding an infinitely large sets of data if a hardware has enough space, and there is clear structural correspondance between keys and values which minimizes the risk of turmoil of important passwords. Within the files, the programs store encrypts data using Japanese kanji which has no association with its original letters, 
-
-resonable explanation for software details (e.g. filetypes)
-- multi-platform
+I propose a software that can run on multiple platforms, mainly windows and iOS, which behaves like a typing practice appication, but has a hidden functionality of a encrypted password manager for the database the institution uses. By digitalizing the storage of passwords, it is largely less likely that the passwords become unreachable, or get misread or miswritten due to flaws in handwriting. The password manager will only open when the secret code is entered within a specific time span, which works as a strong countermeasure towards unauthorized access. The password manager stores data in a csv file, because it is capable of holding an infinitely large sets of data if a hardware has enough space, and there is clear structural correspondance between keys and values which minimizes the risk of turmoil of important passwords. Within the files, the program stores data with encryption using Japanese kanji which has no association with its original letters, functioning as indecipherable, random symbols to avoid leaks of passwords for exam papers by cyber attacks. Its main function as a typing practice software enhances the capability of the employees to handle digital tools, which the owner was anxious about.
 
 ### Success criteria
 Basic Tool Functionality
 
 Typing practice:
-1.  Gives user a random word from large volume word list
+1.  User gets a random word from a large variety of words
 2.  User can type the word in and they can know if the input is correct or not
 3.  User can know their skill level each answer and when they end the practice based on letters per second
 4.  User Interaction:
@@ -54,3 +51,6 @@ Hidden Functionality:
 
 
 ## Criteria C
+### Existing tools that had been used
+- Python: A widely used comprehensive programming language that is close to human language, and is friendly for the programmer.
+      - PyCharm: An IDE than can be used to write and compile python, with a virtual environment
