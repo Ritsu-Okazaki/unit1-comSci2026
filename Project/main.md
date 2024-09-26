@@ -41,8 +41,21 @@ Hidden Functionality:
 ### Flow diagrams
 ![image](https://github.com/user-attachments/assets/2e251154-744a-48e0-84fe-6c07a47215d2)
 ### Test plan
-1. 
-
+1. Create justification of the proposal (Sep 12th)
+2. Check with client (Sep 12th)
+3. Develop prototype: Minimal Viable Product on typing practice function (Sep 16th)
+   - Evaluation of user input
+   - Calculation of time taken for user input
+4. Develop prototype: Minimal Viable Product on password manager function (Sep 17th ~ Sep 25th)
+   - Validation of user input command, menu function based on command
+   - Entry of data from dictionary to csv file
+   - Refreshment of data in csv file
+   - Encryption and decryption of data entry
+5. Finalize product (Sep 26th ~ Sep 27th)
+   - Further validation against illegal input such as no string, only spacebar
+   - Repetition of menu and mutual accessibility between typing practice and password manager
+   - Improve visibility: add colors and bars in the user interface
+6. Presentation to the client with the finished product (Sep 27th)
 
 ## Criteria C
 ### Existing tools that had been used
