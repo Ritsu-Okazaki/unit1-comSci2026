@@ -34,23 +34,26 @@ Hidden Functionality:
 4.  User Interaction:
       - Uses the terminal to interact with the user.
 
-### Design cycle
-| **Task number** | **Planned action**                     | **Planned outcome**          | **Time estimated** | **Target completion date** | **Criterion** |
-|-----------------|----------------------------------------|------------------------------|--------------------|----------------------------|---------------|
-| 1               | Consider the  necessity of the project | Get approval from the client | 25 minutes         | Sep 12th                   | A             |
-|                 |                                        |                              |                    |                            |               |
-|                 |                                        |                              |                    |                            |               |
 
 ## Criteria B
 ### System diagram
 ![image](https://github.com/user-attachments/assets/931ef831-0cad-4143-af34-04cc203f6994)
 ### Flow diagrams
 ![image](https://github.com/user-attachments/assets/2e251154-744a-48e0-84fe-6c07a47215d2)
-
-
+### Test plan
+1. 
 
 
 ## Criteria C
 ### Existing tools that had been used
 - Python: A widely used comprehensive programming language that is close to human language, and is friendly for the programmer.
-      - PyCharm: An IDE than can be used to write and compile python, with a virtual environment
+- PyCharm: An IDE than can be used to write and compile python, with a virtual environment.
+- Function: A programming method that isolates the process from the main flow to avoid complication and repeated notation. In this solution they are used for getting input for commands to manipulate the password manager, and encryption/decryption process, which appear frequently in the code.
+- For loop: A programming method that allows the code to apply repeated processes over sequential data. In this solution they are used in many parts where processes on components of a data is required.
+- While loop: A programming method that allows the code to apply repeated processes with a set condition. In this solution they are used in the framwork of the main flow of the program, to repeat steps while required.
+- Input validation: A programming method that prevents syntax errors in a code by checking if the input is qualified with the correct format and range. In this solution, they are used in every process which requires the user to input string or command.
+- If statements: A programming method that allows a program to perform different processes according to a condition. In this solution they are used in every process where the code depends on user input or other conditions that differ from user interaction.
+- Encryption: A programming method that strengthens data security by making the data hardly indecipherable. In this solution they are used in processes that writes data on a database as a countermeasure to cyber attacks.
+- Random: A tool that allows the code to generate pseudo random numbers for the code to behave randomly. In this solution it is used to give the user a random word to type. Source code: https://github.com/python/cpython/blob/3.12/Lib/random.py
+- Time: A tool that allows the code to take time into account for its process. In this solution it is used to calculate the time that requires the user to enter the correct word. Source: https://docs.python.org/3/library/time.html
+- NLTK: A tool that allows python to extendedly handle human languages. In this solution it was used to create the 1,000 random words that appear in the type practice. Source: https://www.nltk.org/api/nltk.corpus.html
