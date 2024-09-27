@@ -36,16 +36,16 @@ def get_action(type):
 
 def encryption(data):
     result = ""
-    raw = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@;:`-^$%&'!#_?><"
-    enc = "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維慰遺緯域育一壱逸茨芋引印因咽姻員院淫陰飲隠韻右宇羽雨唄鬱畝浦運雲永泳英映栄営詠影鋭衛易"
+    raw = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@;:`-^$%&'!#_?>< "
+    enc = "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維慰遺緯域育一壱逸茨芋引印因咽姻員院淫陰飲隠韻右宇羽雨唄鬱畝浦運雲永泳英映栄営詠影鋭衛易 "
     for i in range(len(data)):
         result += enc[raw.index(data[i])]
     return result
 
 def decryption(data):
     result = ""
-    raw = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@;:`-^$%&'!#_?><"
-    enc = "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維慰遺緯域育一壱逸茨芋引印因咽姻員院淫陰飲隠韻右宇羽雨唄鬱畝浦運雲永泳英映栄営詠影鋭衛易"
+    raw = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789@;:`-^$%&'!#_?>< "
+    enc = "亜哀挨愛曖悪握圧扱宛嵐安案暗以衣位囲医依委威為畏胃尉異移萎偉椅彙意違維慰遺緯域育一壱逸茨芋引印因咽姻員院淫陰飲隠韻右宇羽雨唄鬱畝浦運雲永泳英映栄営詠影鋭衛易 "
     for i in range(len(data)):
         result += raw[enc.index(data[i])]
     return result
@@ -109,6 +109,7 @@ while quit_program is False:
                     print("LEVEL: Expert")
             print("Total mistakes: ", mistakes)
             print("+++++++++++++++++++++++++++++++")
+            time.sleep(5)
             exit()
         elif command == "shortcut":
             end = time.time()
