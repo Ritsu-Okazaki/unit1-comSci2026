@@ -39,7 +39,8 @@ Hidden Functionality:
 ### System diagram
 ![image](https://github.com/user-attachments/assets/931ef831-0cad-4143-af34-04cc203f6994)
 ### Flow diagrams
-![image](https://github.com/user-attachments/assets/2e251154-744a-48e0-84fe-6c07a47215d2)
+![image](https://github.com/user-attachments/assets/8edc07d8-7d08-4b82-a615-2f7d3fdff590)
+
 ### Test plan
 1. Create justification of the proposal (Sep 12th)
 2. Check with client (Sep 12th)
