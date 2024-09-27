@@ -34,6 +34,8 @@ Hidden Functionality:
 4.  User Interaction:
       - Uses the terminal to interact with the user.
 
+### Achievement video
+https://youtu.be/iRoa0OvRols
 
 ## Criteria B
 ### System diagram
@@ -41,7 +43,7 @@ Hidden Functionality:
 ### Flow diagrams
 ![image](https://github.com/user-attachments/assets/8edc07d8-7d08-4b82-a615-2f7d3fdff590)
 
-### Test plan
+### Development plan
 1. Create justification of the proposal (Sep 12th)
 2. Check with client (Sep 12th)
 3. Develop prototype: Minimal Viable Product on typing practice function (Sep 16th)
