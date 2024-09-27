@@ -32,7 +32,28 @@ Hidden Functionality:
       - Stores passwords in a csv file.
       - Tools and passwords are encrypted into designated random Kanji characters letter by letter
 4.  User Interaction:
-      - Uses the terminal to interact with the user.
+      - Uses the terminal to interact with the user
+
+### Test plan
+Typing practice:
+- Correct word → Correct, shows time taken and evaluation of skill based on letters persec
+- Wrong word → Incorrect
+- Space or no input → Incorrect
+- Secret code → if time span is correct, open password manager
+- /exit → exit code with display of user achievement
+
+Password manager:
+- "N" → New note
+  - Unused tool name, password → Entry to database with encryption
+  - Only space or no input → Go to menu
+  - Used tool name →　Go to menu
+- Tool number → Open and show password with decryption
+  - "D" → Delete the password and go to menu
+  - "E" → Asks for new password and edits the data with encryption
+  - "R" → Go to menu
+  - Space or no input → Go to menu
+- Space or no input →　Go to menu
+- /exit → Go to grand beginning of the program
 
 ### Achievement video
 https://youtu.be/iRoa0OvRols
