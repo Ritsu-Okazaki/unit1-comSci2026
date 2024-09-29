@@ -28,7 +28,7 @@ print(door_game(5678))
 ![image](https://github.com/user-attachments/assets/1a1b9348-7c9e-48e4-9411-61691fb1f464)
 
 ## Flow diagram
-![image](https://github.com/user-attachments/assets/b8278a9b-33ee-41f9-9687-2f20f7e1219c)
+![image](https://github.com/user-attachments/assets/ab92b614-8ded-4405-81da-0b9a7524bf48)
 
 ## Paper work
 ![20240929_171339](https://github.com/user-attachments/assets/1c204a25-a7eb-4b32-ab88-3d886a659224)
