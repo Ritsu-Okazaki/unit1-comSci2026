@@ -17,7 +17,7 @@ def power_unit(number:int, unit:str):
                     temp2.append(temp[-letter])
             temp2.pop(0)
             temp2.insert(0,"0.")
-            result.append("".join(temp2)+ " "*(30-len("".join(temp2))) + units[i])
+            result.append("".join(temp2)+ " "*(30-len("".join(temp2))) + units[i] + " " + unit)
         else:
             temp = str(number*(10**i))
             for letter in range(len(temp), 0, -1):
@@ -26,7 +26,7 @@ def power_unit(number:int, unit:str):
                     temp2.append(temp[-letter])
                 else:
                     temp2.append(temp[-letter])
-            result.append("".join(temp2)+ " "*(30-len("".join(temp2))) + units[i])
+            result.append("".join(temp2)+ " "*(30-len("".join(temp2))) + units[i] + " " + unit)
 
     for t in result:
         print(t)
@@ -35,3 +35,7 @@ power_unit(26,"gram")
 ```
 
 ## Proof of work
+![image](https://github.com/user-attachments/assets/16bd3bb0-fa36-4278-bfc1-34931a870ee1)
+
+## Flow diagram
+
