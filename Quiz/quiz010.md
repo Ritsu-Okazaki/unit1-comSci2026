@@ -38,4 +38,7 @@ power_unit(26,"gram")
 ![image](https://github.com/user-attachments/assets/16bd3bb0-fa36-4278-bfc1-34931a870ee1)
 
 ## Flow diagram
+![image](https://github.com/user-attachments/assets/9b557927-62a5-48e7-b6b7-f374e21864f3)
+
+## Paper work
 
