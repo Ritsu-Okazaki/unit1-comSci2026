@@ -40,5 +40,23 @@ power_unit(26,"gram")
 ## Flow diagram
 ![image](https://github.com/user-attachments/assets/9b557927-62a5-48e7-b6b7-f374e21864f3)
 
-## Paper work
+## Prior tests
+```.py
+num = 120000000
 
+length = len(str(num))
+space = []
+result = ""
+
+for i in range(length,0,-1):
+    if i % 3 == 0:
+        result += " "
+        result += str(num)[-i]
+    else:
+        result += str(num)[-i]
+
+print(result) # 120 000 000
+```
+
+## Paper work
+![20240930_204701](https://github.com/user-attachments/assets/79cc0eaf-cdc3-4ecb-b261-0718cfc6f9ce)
