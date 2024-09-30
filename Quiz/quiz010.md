@@ -4,7 +4,7 @@
 ```.py
 def power_unit(number:int, unit:str):
     result = []
-    for i in range(12, -12, -3):
+    for i in range(12, -15, -3):
         temp2 = []
         if i < 0:
             temp = str("{:.{}f}".format(number*(10**i), abs(i)))[2:]
